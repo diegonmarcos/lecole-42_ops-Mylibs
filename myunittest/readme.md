@@ -1,4 +1,0 @@
--Weverything
--Wformat -Warray-bounds -Wnull-dereference -Wvla -ftrapv
--Wall -Wextra
---analyze -Xanalyzer -analyzer-checker=core
