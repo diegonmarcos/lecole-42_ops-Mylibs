@@ -5,6 +5,7 @@
   "label": "lecole-42_ops-Mylibs",
   "code": "5.4.1.1",
   "kind": "repo",
+  "variant": "repo",
   "description": "__\"Every library has its first book, but not the last\"__: MyLibC, MylibC++, MyTools, for Memory Management and Data Manipulation.",
   "visibility": "public",
   "url": "https://github.com/diegonmarcos/lecole-42_ops-Mylibs",
